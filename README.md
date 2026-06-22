@@ -3,74 +3,70 @@
 
 ---
 
-## Overview
+## What This Is
 
-This exercise is part of the selection process for a Knowledge Transfer Partnership (KTP) Associate position. It assesses your ability to apply natural language processing and textual analysis to corporate sustainability disclosures in the context of the voluntary carbon market.
-
-The exercise is designed to take approximately **2–3 hours**. Work at your own pace and focus on demonstrating the quality of your thinking rather than completing every element to perfection.
+A take-home programming exercise for the KTP Associate selection process. You will apply NLP and textual analysis to a corpus of US energy sector 10-K filings, in the context of the voluntary carbon market. **It is designed to take 2–3 hours.**
 
 ---
 
-## Opening the Notebook
+## Getting Started
 
-Click the link below to open the exercise notebook directly in Google Colab:
+**1. Open the notebook in Google Colab:**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamjamesbowden/KTP-Exercise/blob/main/KTP_Exercise.ipynb)
 
-**Important:** when the notebook opens, go to **File → Save a copy in Drive** before doing anything else. Work from your own saved copy — do not attempt to edit the shared original.
+**2. Save your own copy immediately:** File → Save a copy in Drive. Work from your copy — do not edit the shared original.
+
+**3. Run Step 0 first** — every time you open the notebook. It clones the repository and loads the corpus. If your Colab session disconnects (this happens after ~90 minutes of inactivity), reconnect and run Step 0 again before continuing.
+
+You will need a Google account and an active internet connection throughout.
 
 ---
 
-## Before You Begin
+## What You Are Expected to Do
 
-- You will need a Google account to use Colab and save your work
-- An internet connection is required throughout — Colab runs in the cloud
-- Colab sessions disconnect after approximately 90 minutes of inactivity; if this happens, reconnect and run **Step 0** again before continuing
+The notebook contains three tasks and a short written synthesis:
 
----
+**Task 1 — Corpus Characterisation** *(~30–45 min)*
+Three structured outputs: a filing inventory, a carbon vocabulary frequency analysis using a provided seed list, and a disclosure volume trend analysis. The outputs required are specified; how you produce them is up to you.
 
-## Structure
+**Task 2 — Carbon Disclosure Specificity Index** *(~45–60 min)*
+Design and implement your own measure of how specifically and credibly each firm discloses its carbon strategy. Your implementation must produce a numeric score per firm-year. Required outputs are a pivot table, a visualisation, and a 150–200 word methodological justification.
 
-The notebook guides you through four sections:
+**Task 3 — Open Investigation** *(~45–60 min)*
+Formulate your own research question using the same corpus. It must connect to corporate voluntary carbon market behaviour or climate disclosure quality. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
 
-| Section | Description |
-|---|---|
-| **Step 0** | Environment setup — run this at the start of every session |
-| **Task 1** | Corpus characterisation: three structured outputs |
-| **Task 2** | Carbon Disclosure Specificity Index: design and implement your own measure |
-| **Task 3** | Open investigation: your own research question, using the provided corpus |
-| **Written Synthesis** | 600–800 words connecting your findings to the voluntary carbon market |
-
-After each task, you will complete a short **AI Assistance Disclosure** cell. See below.
+**Written Synthesis** *(~15 min)*
+150–200 words drawing together key patterns across all three tasks, the main limitations of your approach, and how you would improve it.
 
 ---
 
 ## AI Assistance
 
-You are permitted to use AI tools (such as ChatGPT, Claude, or Copilot) during this exercise. There is no penalty for doing so. However, you **must** document your use in the disclosure cell provided after each task, including:
+You may use AI tools (ChatGPT, Claude, Copilot, or similar). **After each task, you must complete the AI Assistance Disclosure cell.** For each instance of AI use, fill in:
 
-- Which tool you used
-- What you asked it to do
-- What it suggested
-- What you accepted, modified, or rejected — and why
+- The tool you used
+- Your prompt — **pasted verbatim**
+- What the AI suggested
+- What you accepted, modified, or rejected, and why
 
-The panel will use these disclosures as the basis for follow-up questions at interview. Undisclosed AI use, or disclosure cells that lack meaningful reflection, will count against you. The goal is to see how you work with AI, not whether you use it.
+If you did not use AI for a task, mark the cell accordingly. The panel will ask follow-up questions based on your disclosures at interview. Undisclosed AI use, or disclosures that lack genuine reflection, will be viewed negatively. The goal is to see how you work with AI, not whether you use it.
 
 ---
 
 ## Submitting Your Work
 
-When you have completed the exercise:
+When you have finished:
 
-1. Ensure all cells have been run and all outputs are visible
-2. Save your notebook (**File → Save** or Ctrl+S)
-3. Set sharing to **"Anyone with the link can view"** (**Share → Change to anyone with the link**)
-4. Send the sharing link to the panel contact who invited you to complete this exercise
+1. Run all cells and ensure all outputs are visible in the notebook
+2. Save your notebook (File → Save, or Ctrl+S)
+3. Click **Share** and set access to **"Anyone with the link can view"**
+4. Send the link to the panel contact who invited you to complete this exercise
 
-You do not need to submit any files separately. The completed notebook — including all code, outputs, written commentary, and AI disclosure cells — is your submission.
+Your completed notebook — code, outputs, written commentary, and AI disclosure cells — is your entire submission. No separate files are needed.
 
 ---
 
-## Questions
+## Technical Problems
 
-If you encounter a technical problem that prevents you from completing the exercise, contact the panel via the email address from which you received this invitation.
+If you encounter a problem that prevents you from completing the exercise, contact the panel via the email address from which you received this invitation.
