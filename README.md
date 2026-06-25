@@ -27,19 +27,16 @@ You will need a Google account and an active internet connection throughout.
 
 ## What You Are Expected to Do
 
-The notebook contains three tasks and a short written synthesis:
+The notebook contains three tasks. The emphasis is on code and outputs — brief written annotations are required at key points, and your methodological thinking will be explored in the follow-up interview.
 
 **Task 1 — Corpus Characterisation** *(~35–50 min)*
-Two structured outputs: a filing inventory, and a combined carbon vocabulary frequency and disclosure volume analysis using a provided seed list. The outputs required are specified; how you produce them is up to you.
+Two structured outputs: a filing inventory, and a combined carbon vocabulary frequency and disclosure volume analysis using a provided seed list. Include a short commentary (3–4 sentences) on the patterns you observe.
 
 **Task 2 — Supplier-Side Analysis and Carbon Disclosure Specificity** *(~45–60 min)*
-Two parts. Part A: analyse a real carbon offset project profile (provided in the notebook), covering quality signals and due diligence questions, and the implications of information asymmetry for buyers (150–200 words). Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) that produces a numeric score per firm-year, with a category-level summary table, a visualisation, and a 100–150 word methodological justification.
+Two parts. Part A: read a real carbon offset project profile and write ~100 words identifying quality signals and key due diligence questions. Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) producing a category-level summary table and at least one visualisation.
 
-**Task 3 — Open Investigation** *(~45–60 min)*
-Formulate your own research question using the corpus. It must connect specifically to how firms disclose or signal their carbon strategies, how sectors differ in their VCM engagement, or what textual signals are associated with credible versus superficial climate commitments. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
-
-**Written Synthesis** *(~15 min)*
-150–200 words drawing together key patterns across all three tasks, the main limitations of your approach, and how you would improve it.
+**Task 3 — Open Investigation** *(~40–50 min)*
+Formulate your own research question using the corpus. It must connect specifically to how firms disclose or signal their carbon strategies, how sectors differ in their VCM engagement, or what textual signals are associated with credible versus superficial climate commitments. Produce at least one quantitative output and a 2–3 sentence annotation of your key finding.
 
 ---
 
@@ -56,6 +53,12 @@ If you did not use AI for a task, mark the cell accordingly. The panel will ask 
 
 ---
 
+## At Interview
+
+The panel will ask you to discuss your work. Be prepared to explain your analytical choices, the limitations of your approaches, and what your findings mean in the context of the voluntary carbon market. You do not need to prepare separately — your notebook is the basis for the discussion.
+
+---
+
 ## Submitting Your Work
 
 When you have finished:
@@ -65,7 +68,7 @@ When you have finished:
 3. Click **Share** and set access to **"Anyone with the link can view"**
 4. Send the link to the panel contact who invited you to complete this exercise
 
-Your completed notebook — code, outputs, written commentary, and AI disclosure cells — is your entire submission. No separate files are needed.
+Your completed notebook — code, outputs, annotations, and AI disclosure cells — is your entire submission. No separate files are needed.
 
 ---
 
