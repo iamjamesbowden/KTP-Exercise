@@ -66,7 +66,7 @@ When you have finished:
 1. Run all cells and ensure all outputs are visible in the notebook
 2. Save your notebook (File → Save, or Ctrl+S)
 3. Click **Share** and set access to **"Anyone with the link can view"**
-4. Send the link to the panel contact who invited you to complete this exercise
+4. Send the link to **Ben Chaudhri** at benchaudhri@naturebroking.com
 
 Your completed notebook — code, outputs, annotations, and AI disclosure cells — is your entire submission. No separate files are needed.
 
@@ -74,4 +74,4 @@ Your completed notebook — code, outputs, annotations, and AI disclosure cells 
 
 ## Technical Problems
 
-If you encounter a problem that prevents you from completing the exercise, contact the panel via the email address from which you received this invitation.
+If you encounter a problem that prevents you from completing the exercise, contact Ben Chaudhri at benchaudhri@naturebroking.com.
