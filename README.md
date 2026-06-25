@@ -29,11 +29,11 @@ You will need a Google account and an active internet connection throughout.
 
 The notebook contains three tasks and a short written synthesis:
 
-**Task 1 — Corpus Characterisation** *(~30–45 min)*
-Three structured outputs: a filing inventory, a carbon vocabulary frequency analysis using a provided seed list, and a disclosure volume trend analysis. The outputs required are specified; how you produce them is up to you.
+**Task 1 — Corpus Characterisation** *(~35–50 min)*
+Two structured outputs: a filing inventory, and a combined carbon vocabulary frequency and disclosure volume analysis using a provided seed list. The outputs required are specified; how you produce them is up to you.
 
 **Task 2 — Supplier-Side Analysis and Carbon Disclosure Specificity** *(~45–60 min)*
-Two parts. Part A: analyse a real carbon offset project profile (provided in the notebook), identifying quality signals, due diligence questions, and the economic concept of information asymmetry (~150 words). Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) that produces a numeric score per firm-year, with a pivot table, a visualisation, and a 100–150 word methodological justification.
+Two parts. Part A: analyse a real carbon offset project profile (provided in the notebook), covering quality signals and due diligence questions, and the implications of information asymmetry for buyers (150–200 words). Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) that produces a numeric score per firm-year, with a category-level summary table, a visualisation, and a 100–150 word methodological justification.
 
 **Task 3 — Open Investigation** *(~45–60 min)*
 Formulate your own research question using the corpus. It must connect to corporate voluntary carbon market behaviour or climate disclosure quality. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
