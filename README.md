@@ -5,7 +5,7 @@
 
 ## What This Is
 
-A take-home programming exercise for the KTP Associate selection process. You will apply NLP and textual analysis to a corpus of US energy sector 10-K filings, in the context of the voluntary carbon market. **It is designed to take 2–3 hours.**
+A take-home programming exercise for the KTP Associate selection process. You will apply NLP and textual analysis to a corpus of 10-K filings from 62 US firms across eight sectors, in the context of the voluntary carbon market. **It is designed to take 2–3 hours.**
 
 ---
 
@@ -21,6 +21,8 @@ A take-home programming exercise for the KTP Associate selection process. You wi
 
 You will need a Google account and an active internet connection throughout.
 
+**Optional — OpenRouter API key:** If you have been provided with one, follow the setup instructions in the notebook to enable LLM calls directly within your session. This is not required — all tasks can be completed without it.
+
 ---
 
 ## What You Are Expected to Do
@@ -30,11 +32,11 @@ The notebook contains three tasks and a short written synthesis:
 **Task 1 — Corpus Characterisation** *(~30–45 min)*
 Three structured outputs: a filing inventory, a carbon vocabulary frequency analysis using a provided seed list, and a disclosure volume trend analysis. The outputs required are specified; how you produce them is up to you.
 
-**Task 2 — Carbon Disclosure Specificity Index** *(~45–60 min)*
-Design and implement your own measure of how specifically and credibly each firm discloses its carbon strategy. Your implementation must produce a numeric score per firm-year. Required outputs are a pivot table, a visualisation, and a 150–200 word methodological justification.
+**Task 2 — Supplier-Side Analysis and Carbon Disclosure Specificity** *(~45–60 min)*
+Two parts. Part A: analyse a real carbon offset project profile (provided in the notebook), identifying quality signals, due diligence questions, and the economic concept of information asymmetry (~150 words). Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) that produces a numeric score per firm-year, with a pivot table, a visualisation, and a 100–150 word methodological justification.
 
 **Task 3 — Open Investigation** *(~45–60 min)*
-Formulate your own research question using the same corpus. It must connect to corporate voluntary carbon market behaviour or climate disclosure quality. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
+Formulate your own research question using the corpus. It must connect to corporate voluntary carbon market behaviour or climate disclosure quality. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
 
 **Written Synthesis** *(~15 min)*
 150–200 words drawing together key patterns across all three tasks, the main limitations of your approach, and how you would improve it.
