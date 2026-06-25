@@ -36,7 +36,7 @@ Two structured outputs: a filing inventory, and a combined carbon vocabulary fre
 Two parts. Part A: analyse a real carbon offset project profile (provided in the notebook), covering quality signals and due diligence questions, and the implications of information asymmetry for buyers (150–200 words). Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) that produces a numeric score per firm-year, with a category-level summary table, a visualisation, and a 100–150 word methodological justification.
 
 **Task 3 — Open Investigation** *(~45–60 min)*
-Formulate your own research question using the corpus. It must connect to corporate voluntary carbon market behaviour or climate disclosure quality. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
+Formulate your own research question using the corpus. It must connect specifically to how firms disclose or signal their carbon strategies, how sectors differ in their VCM engagement, or what textual signals are associated with credible versus superficial climate commitments. You must produce at least one quantitative output and a 100–150 word interpretation of your findings.
 
 **Written Synthesis** *(~15 min)*
 150–200 words drawing together key patterns across all three tasks, the main limitations of your approach, and how you would improve it.
