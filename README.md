@@ -17,7 +17,7 @@ A take-home programming exercise for the KTP Associate selection process. You wi
 
 **2. Save your own copy immediately:** File → Save a copy in Drive. Work from your copy — do not edit the shared original.
 
-**3. Run Step 0 first** — every time you open the notebook. It clones the repository and loads the corpus. If your Colab session disconnects (this happens after ~90 minutes of inactivity), reconnect and run Step 0 again before continuing.
+**3. Run Step 0 first** — every time you open the notebook. It clones the repository and loads the corpus. If your Colab session disconnects (this happens after ~90 minutes of inactivity), reconnect and run Step 0 again before continuing. To run any cell, click on it and press **Shift+Enter**, or click the **▶ play button** to the left of the cell.
 
 You will need a Google account and an active internet connection throughout.
 
@@ -30,7 +30,7 @@ You will need a Google account and an active internet connection throughout.
 The notebook contains three tasks. Tasks 1 and 3 are coding tasks with required outputs; Task 2 is a written qualitative analysis with no code. Brief written annotations are required throughout, and your methodological thinking will be explored in the follow-up interview.
 
 **Task 1 — Corpus Characterisation** *(~35–50 min)*
-Two structured outputs: a filing inventory, and a combined carbon vocabulary frequency and disclosure volume analysis using a provided seed list. Include a short commentary (3–4 sentences) on the patterns you observe.
+Two structured outputs: a filing inventory (Output 1.1), and a carbon vocabulary frequency and disclosure volume analysis using a provided seed list (Output 1.2). Output 1.2 includes a commentary cell — write 3–4 sentences on the patterns you observe.
 
 **Task 2 — Carbon Project Quality Assessment** *(~30–40 min)*
 Profiles of two real carbon offset projects are provided in the notebook. Write 200–300 words comparing and contrasting their quality: what attributes suggest credibility, what critical questions remain unanswered, and which you consider stronger from a buyer's due diligence perspective.
