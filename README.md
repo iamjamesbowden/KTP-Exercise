@@ -66,7 +66,7 @@ When you have finished:
 1. Run all cells and ensure all outputs are visible in the notebook
 2. Save your notebook (File → Save, or Ctrl+S)
 3. Click **Share** and set access to **"Anyone with the link can view"**
-4. Send the link to **James Bowden** at james.bowden@strath.ac.uk
+4. Send the link to **Kyung Yoon Kwon** at kyung.kwon@strath.ac.uk
 
 Your completed notebook — code, outputs, annotations, and AI disclosure cells — is your entire submission. No separate files are needed.
 
