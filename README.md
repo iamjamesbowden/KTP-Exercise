@@ -66,7 +66,7 @@ When you have finished:
 1. Run all cells and ensure all outputs are visible in the notebook
 2. Save your notebook (File → Save, or Ctrl+S)
 3. Click **Share** and set access to **"Anyone with the link can view"**
-4. Send the link to **Ben Chaudhri** at benchaudhri@naturebroking.com
+4. Send the link to **James Bowden** at james.bowden@strath.ac.uk
 
 Your completed notebook — code, outputs, annotations, and AI disclosure cells — is your entire submission. No separate files are needed.
 
@@ -74,4 +74,4 @@ Your completed notebook — code, outputs, annotations, and AI disclosure cells 
 
 ## Technical Problems
 
-If you encounter a problem that prevents you from completing the exercise, contact Ben Chaudhri at benchaudhri@naturebroking.com.
+If you encounter a problem that prevents you from completing the exercise, contact James Bowden at james.bowden@strath.ac.uk.
