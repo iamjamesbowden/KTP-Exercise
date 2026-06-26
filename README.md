@@ -27,7 +27,7 @@ You will need a Google account and an active internet connection throughout.
 
 ## What You Are Expected to Do
 
-The notebook contains three tasks. The emphasis is on code and outputs — brief written annotations are required at key points, and your methodological thinking will be explored in the follow-up interview.
+The notebook contains three tasks. Tasks 1 and 3 are coding tasks with required outputs; Task 2 is a written qualitative analysis with no code. Brief written annotations are required throughout, and your methodological thinking will be explored in the follow-up interview.
 
 **Task 1 — Corpus Characterisation** *(~35–50 min)*
 Two structured outputs: a filing inventory, and a combined carbon vocabulary frequency and disclosure volume analysis using a provided seed list. Include a short commentary (3–4 sentences) on the patterns you observe.
