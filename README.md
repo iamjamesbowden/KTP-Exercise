@@ -35,7 +35,7 @@ Two structured outputs: a filing inventory, and a combined carbon vocabulary fre
 **Task 2 — Supplier-Side Analysis and Carbon Disclosure Specificity** *(~45–60 min)*
 Two parts. Part A: read a real carbon offset project profile and write ~100 words identifying quality signals and key due diligence questions. Part B: design and implement a Carbon Disclosure Specificity Index (CDSI) producing a category-level summary table and at least one visualisation.
 
-**Task 3 — Open Investigation** *(~40–50 min)*
+**Task 3 — Open Investigation** *(~45–60 min)*
 Formulate your own research question using the corpus. It must connect specifically to how firms disclose or signal their carbon strategies, how sectors differ in their VCM engagement, or what textual signals are associated with credible versus superficial climate commitments. Produce at least one quantitative output and a 2–3 sentence annotation of your key finding.
 
 ---
